@@ -37,7 +37,7 @@ public class CustomRepositoriesApplication {
 	}
 }
 
-////
+//// https://docs.spring.io/spring-data/jpa/docs/1.11.1.RELEASE/reference/html/#repositories.custom-implementations
 interface CustomCarRepository {
 
 	void doSomethingWith(Car car);
